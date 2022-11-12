@@ -8,6 +8,7 @@ int main()
     double l1,l2,l3,areaT,perT,baseT,alturaT;
     double areaC, perimetroC,radioC;
     const double PI={3.1416};
+    cout<<":___"<<endl;
     cout<<"------------------------------"<<endl;
     cout << "EJERCICIO CALCULO DE AREAS" << endl;
     cout<<"----------------------------"<<endl;
